@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-猿人学第一题 - Selenium解决方案
-在真实浏览器环境中执行，确保100%成功
+猿人学第一题
+在真实浏览器环境中执行，确保环境正确，100%成功
 """
 
 from selenium import webdriver
