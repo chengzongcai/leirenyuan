@@ -218,7 +218,7 @@ def main():
     print("=" * 60)
 
     # 创建解决器实例（无头模式）
-    solver = YuanrenxueSolver(headless=True)
+    solver = YuanrenxueSolver(headless=False)
     
     # 执行解决方案
     result = solver.solve()
